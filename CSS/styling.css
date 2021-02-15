@@ -1,0 +1,62 @@
+#features {
+    text-align: center;
+    padding: 7% 15%;
+}
+
+#use {
+    padding-bottom: 2rem;
+}
+
+#nomargin {
+    margin: 0%;
+}
+
+.feature-box {
+    padding: 3%;
+}
+
+p {
+    color: #8f8f8f;
+}
+
+.fa-4x {
+    margin-bottom: 1rem;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    padding: 5rem;
+}
+
+#title {
+    background-color: black;
+}
+
+.algo-box {
+    text-align: center;
+    
+}
+
+h4{
+    
+    color: white;
+    padding: 3rem;
+}
+
+a {
+    line-height: 3rem;
+}
+
+#algorithms {
+    background-color: black;
+}
+
+
+a {
+    color:#8f8f8f ;
+}
+
+a:hover {
+    color: white;
+}
